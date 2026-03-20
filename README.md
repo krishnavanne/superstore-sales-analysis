@@ -1,4 +1,6 @@
 # superstore-sales-analysis
+
+# Description
 Superstore Sales Analysis using Python to identify sales trends, profit patterns, and business insights.
 
 ## 📌 Project Overview
